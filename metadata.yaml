@@ -1,0 +1,28 @@
+_repo: Au-Hoggar-b-mission-de-1922_73291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kilian, Conrad
+    gutenberg_agent_id: '57022'
+    url: http://www.gutenberg.org/2009/agents/57022
+description: ''
+gutenberg_issued: '2024-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73291'
+language: fr
+pgterms:marc904: https://archive.org/details/BSG_DELTA68987
+pgterms:marc905: 20240318115923kilian
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/Bibliothèque Sainte-Geneviève and the ULB Sachsen-Anhalt)
+publication_note: '  $aParis :$bSociété d''éditions géographiques maritimes et coloniales,
+  $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Au Hoggar : $b mission de 1922'
+url: http://www.gutenberg.org/ebooks/73291

@@ -1,11 +1,16 @@
 _repo: Au-Hoggar-b-mission-de-1922_73291
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73291-h/images/cover.jpg
 creator:
   author:
     agent_name: Kilian, Conrad
     gutenberg_agent_id: '57022'
     url: http://www.gutenberg.org/2009/agents/57022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73291#Au-Hoggar-b-mission-de-1922
 gutenberg_issued: '2024-03-30'
 gutenberg_type: Text
 identifiers:
